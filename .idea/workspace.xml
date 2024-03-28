@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42e5e7d1-3ae9-43ad-be77-bebb081c2374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonfiles/token.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsonfiles/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/GoREST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/CreateUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/DeleteUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/DetailsUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/UpdateUser.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/DeleteUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/DetailUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/UpdateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/support/Support.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/web/Hue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/api/Reqres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/Reqres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/web/Traveloka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/Traveloka.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2d2o3UnevBfRiqSMbJngaqFwaGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: CreateUser.executor": "Run",
+    "Cucumber Java.Feature: DeleteUser.executor": "Run",
+    "Cucumber Java.Feature: DetailsUser.executor": "Run",
+    "Cucumber Java.Feature: UpdateUser.executor": "Run",
+    "Cucumber Java.Scenario: Creating New User and Validate Responses.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Melakukan Update dengan Memasukkan Status yang tidak Valid.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Melakukan Update dengan Memasukkan email kosong.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Melakukan Update dengan email yang sudah terdaftarkan.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Membuat User baru dengan Memasukkan Status yang tidak Valid.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Membuat User baru dengan Memasukkan email null.executor": "Run",
+    "Cucumber Java.Scenario: [Negative] Membuat User dengan Email yang sudah terdaftarkan.executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Melakukan Checking Response Details User.executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Melakukan Delete User.executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Melakukan Update dengan Data yang Valid.executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Melakukan Update dengan Data yang Validas.executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Membuat User baru dengan Data yang Valid (1).executor": "Run",
+    "Cucumber Java.Scenario: [POSITIVE] Membuat User baru dengan Data yang Valid.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.GoREST (1).executor": "Run",
+    "TestNG.GoREST (2).executor": "Run",
+    "TestNG.GoREST.createUsers (1).executor": "Run",
+    "TestNG.GoREST.createUsers (2).executor": "Run",
+    "TestNG.GoREST.createUsers.executor": "Run",
+    "TestNG.GoREST.deleteUsers.executor": "Run",
+    "TestNG.GoREST.detailUsers.executor": "Run",
+    "TestNG.GoREST.executor": "Run",
+    "TestNG.GoREST.testAPIPostRequest (1).executor": "Run",
+    "TestNG.GoREST.testAPIPostRequest (2).executor": "Run",
+    "TestNG.GoREST.testAPIPostRequest (3).executor": "Run",
+    "TestNG.GoREST.testAPIPostRequest (4).executor": "Run",
+    "TestNG.GoREST.testAPIPostRequest.executor": "Run",
+    "TestNG.GoREST.updateUsers.executor": "Run",
+    "TestNG.Hue.executor": "Run",
+    "TestNG.Hue.go.executor": "Run",
+    "TestNG.Reqres (1).executor": "Run",
+    "TestNG.Reqres.executor": "Run",
+    "TestNG.Reqres.getList.executor": "Run",
+    "TestNG.Reqres.getListParam.executor": "Run",
+    "TestNG.Reqres.go.executor": "Run",
+    "TestNG.Reqres.post (1).executor": "Run",
+    "TestNG.Reqres.post (2).executor": "Run",
+    "TestNG.Reqres.post.executor": "Run",
+    "TestNG.TestRunner.executor": "Run",
+    "TestNG.Traveloka.executor": "Run",
+    "TestNG.Traveloka.get.executor": "Run",
+    "TestNG.Traveloka.go (1).executor": "Run",
+    "TestNG.Traveloka.go (2).executor": "Run",
+    "TestNG.Traveloka.go (3).executor": "Run",
+    "TestNG.Traveloka.go (4).executor": "Run",
+    "TestNG.Traveloka.go (5).executor": "Run",
+    "TestNG.Traveloka.go.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lapto/OneDrive/Documents/PRIBADI/Belajar/selenium/udemy/randomproject",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestRunner">
+    <configuration name="Feature: DeleteUser" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DeleteUser.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="selenium-project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: DeleteUser" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: DetailsUser" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DetailsUser.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="selenium-project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: DetailsUser" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: [POSITIVE] Melakukan Delete User" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DeleteUser.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="selenium-project" />
+      <option name="NAME_FILTER" value="^\[POSITIVE\] Melakukan Delete User$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^\[POSITIVE\] Melakukan Delete User$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: [POSITIVE] Melakukan Delete User" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Feature: DeleteUser" />
+        <item itemvalue="Cucumber Java.Feature: DetailsUser" />
+        <item itemvalue="Cucumber Java.Scenario: [POSITIVE] Melakukan Delete User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e5e7d1-3ae9-43ad-be77-bebb081c2374" name="Changes" comment="" />
+      <created>1709215337104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709215337104</updated>
+    </task>
+    <servers />
+  </component>
+</project>
